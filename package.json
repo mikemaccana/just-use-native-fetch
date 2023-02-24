@@ -1,0 +1,11 @@
+{
+  "name": "just-use-native-fetch",
+  "version": "1.0.0",
+  "description": "A package to use node 18 / the browser's own fetch. Use as a vite alias for node-fetch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike MacCana <mike.maccana@gmail.com>",
+  "license": "MIT"
+}
